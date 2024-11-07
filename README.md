@@ -1,4 +1,27 @@
-# antispy-jammer
+#Saltar al contenido principal
+Buscar
+ ​
+
+Iniciar sesión
+Arduino Forum
+Como puedo Implementar una seguridad para proteger el código de mi Arduino
+Español
+Software
+⚠ Upcoming deletion of inactive Arduino accounts. Details 👉here👈
+Como puedo Implementar una seguridad para proteger el código de mi Arduino
+International
+Español
+Software
+
+pliniopalominot4
+
+2
+ago. 2022post #1
+Hola comunidad de Arduino, la verdad me preguntaba cómo podía ponerle un cierto grado de seguridad a algún proyecto que necesite de una seguridad para proteger sus datos ya que con Fuse es muy inseguro. Estuve consultado y la verdad es escaso todo este tema. Logre ver que el DS2401 sirve para brindar un código de verificación único, pero la verdad no tendría idea de cómo implementarlo. Solo encontre su hoja de datos, y la verdad no me aporto mucho, ya que no hay nada relacionado a este.
+
+Si se puediera encriptar el hex tendrias los que buscas pero lo mejor que puedes hacer es que tu código consulte el valor del DS2401 cada x tiempo, como medida de seguridad. Cualquiera con conocimientos, puede copiar el hexa de tu arduino (usando averdude), luego poner otro DS2401 y editar tu hexa …
+
+ antispy-jammer
 Simple ultrasonic antispy voice recording jammer based on ATTINY13 / ATTINY85 / ATTINY45 / ATTINY25 with audio amplifier PAM8403 / TPA3116D2 module driving piezo ultrasonic transducers and AD9833 programmable signal generator. It prevents from unauthorized human speech recording by hidden microphones and voice assistants. 
 
 The project is based on following concept presented here : https://sandlab.cs.uchicago.edu/jammer/  , 
