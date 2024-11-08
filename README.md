@@ -1,5 +1,99 @@
 
-Portales
+Omita y vaya al Contenido
+
+Un sitio oficial del Gobierno de Estados Unidos
+
+Así es como usted puede verificarlo 
+
+Así es como usted puede verificarlo
+Institutos Nacionales de la SaludBiblioteca Nacional de Medicina
+MedlinePlus Información de salud para usted
+MenúBúsqueda
+English
+Usted está aquí:Página Principal → Enciclopedia médica → Enfermedad por radiación
+Enfermedad por radiación
+Enviar esta página a un amigo Imprimir Facebook X Pinterest
+Es la enfermedad y los síntomas que resultan de la exposición excesiva a la radiación ionizante.
+
+Existen dos tipos principales de radiación: no ionizante e ionizante.
+
+La radiación no ionizante viene en forma de luz, ondas de radio, microondas y radar. Estas formas por lo general no producen daño a los tejidos.
+La radiación ionizante es la que produce efectos inmediatos en los tejidos humanos y es emitida por los rayos X, los rayos gamma y el bombardeo de partículas (haces de neutrones, electrones, protones, mesones y otros). Este tipo de radiación se utiliza para realizar exámenes y tratamientos médicos. También se utiliza con fines industriales y de manufactura de armamento y desarrollo de armas, entre otros.
+Consideraciones
+La enfermedad por radiación se produce cuando los seres humanos (u otros animales) son expuestos a dosis muy altas de radiación ionizante.
+
+La exposición a la radiación se puede presentar como alta y única (aguda). O puede presentarse en una serie de pequeñas exposiciones esparcidas en el tiempo (crónica). La exposición puede ser accidental o intencional (como en la radioterapia para el tratamiento de enfermedades).
+
+La enfermedad por radiación generalmente se asocia con la exposición aguda y se presenta con un conjunto de síntomas muy característicos que aparecen de forma ordenada. La exposición crónica suele asociarse a problemas de salud que aparecen más tarde, como el cáncer o el envejecimiento prematuro, que pueden suceder en un período largo de tiempo.
+
+El riesgo para cáncer depende de la dosis y comienza a acumularse incluso si las dosis son muy bajas. No existe un "umbral mínimo". En promedio, los estadounidenses reciben una dosis de radiación de cerca de 0.62 rem (620millirem) por año, la mitad de esta dosis viene de la radiación en el entorno natural.
+
+La exposición proveniente de rayos X o gamma se mide en unidades roentgen o milisievert (mSv):
+10 milisievert son iguales a 1 roentgen (abreviado como rad o simplemente R)
+Una simple radiografía de tórax expone al paciente a cerca de 0.1 mSv o 0.01 rad
+Una tomografía computarizada de abdomen (vientre) y la pelvis exponen a la persona a cerca de 10 mSv o 1 rad 
+La exposición corporal total de 50 a 100 roentgen/rad o 1 unidad Gray (Gy) igual a de 500 a 1000 mSv causa enfermedad por radiación.
+La exposición corporal total de 400 R/rad (o 4 Gy) produce enfermedad por radiación y muerte en la mitad de los individuos que están expuestos. Sin tratamiento médico, casi toda persona que reciba más de esta cantidad de radiación morirá al cabo de 30 días.
+100,000 R/rad (1,000 Gy) producen pérdida del conocimiento casi de inmediato y la muerte al cabo de una hora.
+La gravedad de los síntomas y la enfermedad (enfermedad por radiación aguda) dependen del tipo y cantidad de radiación, la duración de la exposición y la parte del cuerpo que estuvo expuesta. Los síntomas de esta enfermedad pueden presentarse justo después de la exposición, o durante los siguientes días, semanas o meses. La médula ósea y el tubo digestivo son especialmente sensibles a una lesión por radiación. Los niños y los bebés que aún están en el útero son más propensos a que la radiación les cause lesiones graves.
+
+Debido a que es difícil determinar la cantidad de exposición a radiación a causa de accidentes nucleares, las mejores señales de la gravedad de la exposición son: el tiempo transcurrido entre la exposición y la aparición de los síntomas, la gravedad de dichos síntomas y de los cambios en los glóbulos blancos. Si una persona vomita en menos de una hora después de haber estado expuesta, eso generalmente significa que la dosis de radiación recibida es muy alta y que se puede esperar la muerte.
+
+Los niños que reciben tratamientos con radiación o que han estado accidentalmente expuestos a radiación recibirán tratamiento con base en sus síntomas y en los resultados de los hemogramas. Se necesitan estudios sanguíneos frecuentes que requieren una pequeña punción de una vena a través de la piel para obtener las muestras de sangre.
+
+Causas
+Colapse sección
+Causas ha sido extendido.
+Las causas incluyen:
+
+La exposición accidental a dosis altas de radiación, como la radiación de un accidente en una planta de energía nuclear
+La exposición a radiación excesiva para tratamientos médicos
+Síntomas
+Expanda sección
+Primeros auxilios
+Expanda sección
+No se debe
+Expanda sección
+Prevención
+Expanda sección
+Nombres alternativos
+Expanda sección
+Imágenes
+Expanda sección
+Referencias
+Expanda sección
+Ultima revisión 7/1/2023
+Expanda sección
+Conozca cómo citar esta página
+Temas de salud relacionados
+Expanda sección
+¿Le ayudó esta página?
+SíNo
+Health Content Provider
+06/01/2025A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y la poliza de privacidad de A.D.A.M. A.D.A.M. es también uno de los miembros fundadores de la Junta Ética de Salud en Internet (Health Internet Ethics, o Hi-Ethics) y cumple con los principios de la Fundación de Salud en la Red (Health on the Net Foundation: www.hon.ch).
+La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997- 2024 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.
+
+Acerca de A.D.A.M.
+Acerca de MedlinePlus
+Qué hay de nuevo
+Índice
+Contáctenos
+RSSRSS
+Síganos en X Facebook Instagram
+Kit para redes socialesKit para redes sociales
+Exenciones
+Derechos de autor
+Política de privacidad
+Accesibilidad
+Pautas para enlaces
+Visores y reproductores
+HHS Divulgación de Vulnerabilidad
+National Library of Medicine
+8600 Rockville Pike, Bethesda, MD 20894
+U.S. Department of Health and Human Services
+National Institutes of Health
+Volver al comienzo
+
 - Webinar -
 Empleo
 Robotica
