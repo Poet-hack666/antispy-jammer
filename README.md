@@ -1,4 +1,249 @@
-Es noticia
+PrivacidadPrivacidad
+¿Desea recibir notificaciones de www.defensa.com?
+Sí, activarlasX Becolve Digital
+Estrategia de Defensa en profundidad en ciberseguridad industrial.
+En entornos de automatización industrial e infraestructuras críticas la principal preocupación es mantener la disponibilidad de todos los componentes del sistema en contraposición de la confidenci...
+
+Portada del blog
+Comparte este artículo
+Suscríbete ahora al newsletter! 
+email
+Enviar
+Categorías
+Alta disponibilidad
+Ciberseguridad
+Cloud
+Comunicaciones
+Control de Operaciones
+Eficiencia Operativa
+Formación
+Gestión de datos
+Integración IT-OT
+Mantenimiento de activos
+Noticias
+Sin categorizar
+Suscripción
+Transformación Digital
+Sectores
+Aeropuertos
+Aguas
+Automoción
+Data Center
+Energía
+F&B
+Facility Management
+Farma
+Ferroviario
+OEM
+Oil&Gas
+Packaging
+Puertos
+Química y Cosmética
+Smart City
+Transporte y movilidad
+Túneles
+Se considera el término de ciberseguridad industrial como aquellos mecanismos para prevenir el acceso ilegal o no deseado, la interferencia intencional o no intencional con la operación adecuada y prevista, o el acceso inadecuado a información confidencial en sistemas de automatización y control industrial. La seguridad electrónica incluye computadoras, redes, sistemas operativos, aplicaciones y otros componentes configurables programables del sistema.
+
+La seguridad de la información, tradicionalmente, se ha focalizado en conseguir 3 principales objetivos:
+
+Confidencialidad de la información.
+Integridad de los datos.
+Disponibilidad.
+Tradicionalmente, en entornos informáticos, se ha priorizado la confidencialidad de la información, pues es la propia información lo que tiene valor para la función.
+
+En entornos de automatización industrial e infraestructuras críticas las prioridades son diferentes. En estos entornos, la principal preocupación es mantener la disponibilidad de todos los componentes del sistema en contraposición de la confidencialidad.
+
+Modelo para estrategia de defensa en profundidad
+Modelo CIA de IEC 62443
+
+El modelo “CIA1” mostrado en la Figura 1 no es adecuado para una comprensión completa de los requisitos de seguridad de una infraestructura crítica. Para ello, hace falta considerar otros requisitos fundamentales como, por ejemplo, los especificados en la IEC62443:
+
+Control de acceso: proteger los activos de accesos e información de accesos no autorizados.
+Control de uso: proteger a los activos de operaciones no autorizadas.
+Integridad de la información: proteger los canales de comunicación contra de cambios no autorizados de la información que transportan.
+Confidencialidad de la información: asegurar que la información del espionaje.
+Restringir los flujos de datos: proteger los canales de comunicación para evitar que la información llegue a destinos no autorizados.
+Respuesta a incidentes: asegurar que se responde a incidentes de ciberseguridad de forma correcta. Implica: monitorización, reporting, alertas y la ejecución de acciones correctoras.
+Disponibilidad de recursos: asegurar que todos los recursos del sistema están disponibles y protegerlos de denegaciones de servicio.
+Cada vez más, las operaciones de los entornos ICS OT dependen de las tecnologías de la información para el correcto desarrollo de su función. Es, por tanto, necesario implementar controles de ciberseguridad que los proteja, asegure su disponibilidad y su correcto funcionamiento, tanto de las operaciones como de los equipos de la organización.
+
+Contramedidas típicas a utilizar para minimizar amenazas externas son:
+
+Autenticación de usuarios y equipos.
+Controles de acceso.
+IDS
+Uso de cifrado.
+Uso de firmas digitales
+Aislamiento y/o segregación de redes/dispositivos.
+Escáneres de vulnerabilidades.
+Monitorización de la actividad de los equipos y de la red.
+Seguridad física.
+Para la mitigación de amenazas internas hace falta una aproximación diferente, dado que un posible atacante tendría la posibilidad de saltarse las contramedidas normales. En este caso, se requiere poner más énfasis en contramedidas como las políticas y procedimientos, separación de roles, monitorización de las actividades, cifrado y auditoría de sistemas.
+
+Por tanto, una tecnología, producto o solución única no es suficiente para proteger adecuadamente los sistemas de control. Se requiere emplear una estrategia multi-capa que incluya dos o más mecanismos de seguridad que se superpongan, es decir, emplear estrategias de defensa en profundidad.
+
+Una estrategia de defensa en profundidad incluye el uso de cortafuegos, creación de DMZ, el uso de soluciones para la detección de intrusiones, políticas de seguridad efectivas, programas de formación, respuesta ante incidentes, mecanismos para garantizar la seguridad física y mecanismos para la monitorización y alerta de incidentes. De esta manera, si una salvaguarda en particular falla, existirán otras en las capas inferiores que mantendrán el riesgo en niveles aceptables.
+
+estrategia defensa en profundidad en ciberseguridad industrial
+Estrategia de defensa en profundidad
+
+ 
+Defensa en profundidad
+1. Políticas y procedimientos de seguridad: Reglas, obligaciones y procedimientos que definan el enfoque de la organización para la protección y seguridad de la información. Las políticas deben comunicarse a toda la organización en una forma apropiada, entendible y accesible.
+
+2. Seguridad física y del entorno: Objetivo: evitar que un posible atacante disponga de acceso físico a los equipos e infraestructuras de red industrial (al Hardware). Las barreras, mecanismos de control de acceso físico y de vigilancia son los pilares para incrementar la seguridad de esta dimensión.
+
+3. Defensa perimetral: El perímetro es el punto o conjunto de puntos de la red interna de confianza, gestionada por la propia organización, entra en contacto con otras redes externas o no fiables, cómo puede ser Internet o redes gestionadas por terceros. El atacante puede tener acceso a los servicios ofrecidos o accesibles desde el exterior y aprovecharse de ellos para realizar una actividad maliciosa. Las medidas en esta capa se centran en el aseguramiento de los accesos remotos a la red.
+
+4. Defensa de red: Si el atacante tiene acceso a la red, puede monitorizar el tráfico que circula por ésta, de forma pasiva (solo lectura) o activa (modificación posible). Para proteger la red de estas amenazas suelen utilizarse sistemas de detección de intrusiones y sistemas de prevención de intrusiones.
+
+5. Defensa de equipos: La seguridad de equipos, tanto servidores como clientes, se basa en la implementación de las siguientes salvaguardas:
+
+ Instalar parches de seguridad para eliminar vulnerabilidades conocidas.
+Desactivar todos los servicios innecesarios para minimizar el factor de exposición del equipo
+Disponer de un anti-malware activo.
+Controlar las comunicaciones entrantes mediante un cortafuegos
+Restringir la ejecución de aplicaciones
+6. Defensa de aplicaciones: Las aplicaciones se protegen realizando un control de acceso mediante la sólida implantación de mecanismos de autenticación y autorización.
+
+7. Defensa de datos: Si un atacante ha conseguido traspasar todas las protecciones anteriores y tiene acceso a la aplicación, la autenticación y autorización, así como el cifrado, constituyen las tecnologías más empleadas para proteger los datos.
+
+8. Se recomienda el uso de mecanismos automatizados para realizar copias de seguridad de los sistemas de control que permita disponer de un control de versiones.
+
+9. Se recomienda redundar el almacenamiento de las copias.
+
+Links relacionados con defensa en profundidad
+
+Cómo Logitek implementa la defensa perimetral.
+Cómo Logitek implementa la defensa de la red interna.
+Defensa en profundidad.
+Cómo Logitek implementa la defensa de los equipos.
+Cómo Logitek implementa la defensa de los datos.
+ 
+
+Artículos relacionados
+
+Impulsamos la Transformación Digital en la industria y las infraestructuras. Empoderamos a personas y organizaciones para que sean más competitivas, eficientes y sostenibles.
+DIRECCIÓN:
+Carretera Sant
+Cugat, 63,
+Edf. B 2a Planta
+08191 – Rubí
+Barcelona (España)
+CONTACTO
++34 93 588 67 67
+Email
+Síguenos
+Linkedin
+Twitter
+Youtube
+Newsletter
++34 93 588 67 67
+SOLUCIONES
+Industria
+Infraestructuras
+RECURSOS
+E-books
+Webinars
+Demos
+Tech Pills
+Casos de Éxito
+PRODUCTOS
+Alta disponibilidad
+Ciberseguridad
+Cloud
+Comunicaciones
+Control de Operaciones
+Eficiencia Operativa
+Gestión de Datos
+Integración IT-OT
+Mantenimiento de Activos
+Transformación Digital
+INDUSTRIA
+Automoción
+Food & Beverage
+Farma
+OEM
+Packaging
+Química y Cosmética
+INFRAESTRUCTURAS
+Data Center
+Aeropuertos
+Ciclo del Agua
+Energía
+Puertos
+Smart Cities
+Transporte y Movilidad
+Túneles
+Facility Management
+FORMACIÓN
+Formación
+Certificados
+Webinars
+PARTNERS
+Expert Partner Program
+Directorio de Partners
+Becolve Digital Lab
+AVEVA SELECT
+EVENTOS
+BLOG
+CONTACTO
+
+
+Becolve 2024
+Condiciones de venta
+Política de corresponsabilidad
+Política de calidad
+Código ético
+Canal ético
+Política de privacidad
+Política de cookies
+Aviso legal
+
+
+Viernes, 8 de noviembre de 2024 Iniciar Sesión Suscríbase
+inicio
+
+Defensa
+Industria
+
+El MBDA “Brimstone” es capaz de destruir simultáneamente en salva múltiples naves de ataque
+defensa.com, 25 de junio de 2013
+
+
+
+(defensa.com) El misil MBDA Brimstone, probado en combate, llevó a cavo la primera acción del mundo de salva superficie-superficie contra múltiples amenazas de naves rápidas de ataque en la costa FIAC (Fast In-shore Attack Craft) con solo pulsar un botón. El éxito de la prueba demostró su capacidad para destruir numerosos navíos sin necesidad de una laboriosa designación de cada uno de ellos y su habilidad de disparar y olvidar armas de ataque de superficie. Tres Brimstone operando en banda milimétrica se lanzaron en una salva rápida de menos de un segundo contra una formación de ataque simulada de 5 FIAC, adquiriendo independientemente y enganchando sus respectivos blancos a distancias de 4 a 5 km. (alcance restringido por seguridad).
+
+Los impactos directos representaron daños estructurales extensivos de los 3 navíos líderes, incluyendo uno que se desplazaba a 20 nudos. Los misiles se lanzaron desde una plataforma de ensayos de superficie con un triple raíl, en condiciones de mar de fuerza 3. El programa lo ha desarrollado MBDA UK en Stevenage (Hertfordshire) y las pruebas se han llevado a cabo en la costa Oeste de Escocia, con apoyo de QinetiQ. Se ha propuesto para desplegarlo con el programa Sea Spear contra FIAC y otras pequeñas amenazas de superficie en todos los ambientes meteorológicos. El Dual Mode Brimstone (banda milimétrica/buscador SAL) ha probado sus capacidades en ataques de precisión contra blancos fijos y móviles durantes operaciones de combate de la RAF en Afganistán y Libia y el milimétrico se ha utilizado en Libia mediante aviones Tornado GR4.
+Fotografía: Disparo de un “Brimstone”.
+
+
+Copyright © Grupo Edefa S.A. defensa.com ISSN: 3045-5170. Prohibida la reproducción total o parcial de este artículo sin permiso y autorización previa por parte de la empresa editora.
+
+
+
+
+
+
+
+
+LO MÁS VISTO
+La Guardia Nacional y la Policía Nacional de Venezuela reciben camionetas Mitsubishi, motos Morini y equipo...
+Tucanos de la Fuerza Aérea Argentina interceptan un vuelo narco pilotado por un ex alto oficial de la Fuerza Aérea de...
+El proyectil de artillería de 120 km. de alcance de General Atomics podría estar listo el año que viene
+Misiles Iskander rusos en el norte de África, un giro estratégico que altera el equilibrio de fuerzas regionales
+El atípico navío USS Hershel “Woody” Williams en la base española de Rota
+
+
+
+
+Quienes somos
+Aviso legal
+Publicidad
+Grupo Edefa SA - Clara del Rey nº 12-8º B4 28002 MADRID (ESPAÑA)
+© 2024 . Todos los derechos reservados     © Gestor de contenidos Gestor de contenidos HagaClic
+
+ noticia
 Lotería Nacional
 DANA
 Donald Trump
